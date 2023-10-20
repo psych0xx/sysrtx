@@ -1,11 +1,11 @@
 <h2 align="center">
-  <em>SRCHOW</em>
+  <em>BLACKCRW</em>
 </h2>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Offensive%20Security-0d1117?style=flat-square&logo=Red-Hat&logoColor=FFFFFF">
-    <img alt="" src="https://img.shields.io/badge/Offensive%20Security-FFFFFF?style=flat-square&logo=Red-Hat&logoColor=171717">
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Red%20Team-0d1117?style=flat-square&logo=Red-Hat&logoColor=FFFFFF">
+    <img alt="" src="https://img.shields.io/badge/Red%20Team-FFFFFF?style=flat-square&logo=Red-Hat&logoColor=171717">
   </picture>
   
   <picture>
