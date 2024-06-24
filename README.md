@@ -1,5 +1,5 @@
 <h2 align="center">
-  <em>⌜BLACKCRW⌟</em>
+  <em>⌜BLKZ⌟</em>
 </h2>
 
 <h4 align="center">
